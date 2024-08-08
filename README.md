@@ -2,10 +2,7 @@
 
 # Welcome to Dan Munene's GitHub Profile!
 
-Hi there! 👋 I'm Dan Munene, a Full-stack Software Engineer with a background in Mechatronic Engineering. Whether it's optimizing
-backend processes for efficiency or creating intuitive user interfaces, I'm dedicated to leveraging my skills to drive positive change and
-make a meaningful impact.
-
+Hi there! 👋 I'm Dan Muchiri, a Full-Stack Software Engineer proficient in Python with Flask, React, and JavaScript-based programming, and also skilled in developing decentralized applications (dApps) using Solidity and Ethers.js. I'm dedicated to leveraging my skills to drive positive change and make a meaningful impact.
 ## About Me
 
 - 🌍 Location: Nairobi, Kenya
@@ -16,19 +13,18 @@ make a meaningful impact.
 
 ## Technical Skills
 
-- **Front-end Development:**
   - HTML
   - CSS
   - JavaScript
   - React.js
   - Git
-
-- **Back-end Development:**
   - Python
   - Flask
   - SQL
   - Postgresql
   - SqlAlchemy
+  - Solidity
+  - Ethers.js
 
 ## Projects
 
@@ -47,6 +43,8 @@ I'm interested in:
 - Back-end Development with Python and Flask
 - Database Management with SQL
 - API Development and Integration
+- Web3 Development with Solidity and Ethers.js
+- Decentralized Finance (DeFi) and Smart Contracts
 
 ## Contact Me
 
