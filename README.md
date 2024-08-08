@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-# Welcome to Dan Munene's GitHub Profile!
+# Welcome to Dan Muchiri's GitHub Profile!
 
 Hi there! 👋 I'm Dan Muchiri, a Full-Stack Software Engineer proficient in Python with Flask, React, and JavaScript-based programming, and also skilled in developing decentralized applications (dApps) using Solidity and Ethers.js. I'm dedicated to leveraging my skills to drive positive change and make a meaningful impact.
 ## About Me
 
-- 🌍 Location: Nairobi, Kenya
 - 💼 Occupation: Full-stack Software Engineer
-- 🎓 Education:
-  - Bachelor of Science in Mechatronic Engineering, Dedan Kimathi University of Technology, 2018 - 2023 (Second class honors upper division)
-  - Full-stack Software Engineering, Moringa School, 2023 - 2024
 
 ## Technical Skills
 
@@ -50,7 +46,7 @@ I'm interested in:
 
 - 📧 Email: danspmunene@gmail.com
 - 📱 Phone: +254706318757
-- 💼 [LinkedIn](https://www.linkedin.com/in/dan-munene-4a4364245/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dan-muchiri/)
 
 Feel free to reach out if you have any questions or collaboration opportunities!
 
