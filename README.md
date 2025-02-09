@@ -2,13 +2,13 @@
 
 # Welcome to Dan Muchiri's GitHub Profile!
 
-Hi there! 👋 I'm Dan Muchiri, a Full-Stack Software Engineer proficient in Python with Flask, React, and JavaScript-based programming. I'm dedicated to leveraging my skills to drive positive change and make a meaningful impact.
+Hi there! 👋 I'm Dan Muchiri, a Software Engineer proficient in Python with Flask, React, and JavaScript-based programming. I'm dedicated to leveraging my skills to drive positive change and make a meaningful impact.
 ## About Me
 
-- 💼 Occupation: Full-stack Software Engineer
+- 💼 Occupation: Software Engineer
 
 ## Technical Skills
-
+  
   - HTML
   - CSS
   - JavaScript
@@ -19,6 +19,7 @@ Hi there! 👋 I'm Dan Muchiri, a Full-Stack Software Engineer proficient in Pyt
   - SQL
   - Postgresql
   - SqlAlchemy
+  - Embedded C
 
 ## Areas of Interest
 
@@ -29,8 +30,7 @@ I'm interested in:
 - Back-end Development with Python and Flask
 - Database Management with SQL
 - API Development and Integration
-- Web3 Development with Solidity and Ethers.js
-- Decentralized Finance (DeFi) and Smart Contracts
+- Embedded Software Development
 
 ## Contact Me
 
